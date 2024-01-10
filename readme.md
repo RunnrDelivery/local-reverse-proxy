@@ -8,10 +8,6 @@
 
 To use `local-reverse-proxy`, you can install it globally using the following command: `npm i -g local-reverse-proxy`
 
-bash
-
-`npx local-reverse-proxy`
-
 ## Usage
 
 bash
